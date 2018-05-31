@@ -1,2 +1,2 @@
-# comic5
-my comic dream
+# comic5（漫屋）
+这是一个关于梦想的网站
